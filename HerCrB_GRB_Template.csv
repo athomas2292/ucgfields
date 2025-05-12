@@ -1,0 +1,64 @@
+GRB,T90,comments,RA,Dec,z,X,O,R,refs
+60512,8.6,"Nearby, lower-redshift galaxy. Moderately bright OT.",03:05.8,+41:11:27.24,2.1,y,y,,
+90201,83,Very bright Swift burst with faint afterglow: candidate afterglow not confirmed.,08:12.5,-46:35:24.2,2.1,y,,n,
+081203A,294,Very bright afterglow.,32:07.6,+63:31:14.9,2.1,y,y,n,2
+130610A,46.4,"Early multicolor optical afterglow detection, extensive ground followup..",57:40.9,+28:12:23.1,2.092,y,y,,
+061222A,72,Bright GRB with faint afterglow; shallow early decline.,53:03.4,+46:31:58.60,2.088,y,y,y,
+150206A,83.2,,40:17.7,-63:10:55.6,2.087,y,y,,
+80207,340,Image trigger. High-z-like light curve but large NH column. Very dark.,50:02.9,+07:30:06.7,2.0858,y,,,2
+926,25,Faint host galaxy. X-ray excess: Compton scattering?,04:09.7,+51:47:10,2.066,y,y,y,12
+150403A,40.9,LAT detection,46:01.1,-62:42:41.0,2.06,y,y,,
+180325A,94.1,"Very luminous, reddened afterglow with 2175-A dust bump. Optical observations during main burst peak.",29:42.7,+24:27:49.3,2.04,,,,
+140620A,,Fermi event with PTF afterglow (14cva),47:29.0,+49:43:51.3,2.04,y,y,,
+70611,12,Late-rising afterglow.,07:58.0,-29:45:20.0,2.0394,y,y,,
+000301C,10,Burst much shorter at higher energies. Faint host. Microlensing candidate.,20:18.6,+29:26:36,2.0335,,y,y,16
+60108,14.4,"Very faint afterglow, seen only at long wavelengths. XRT offset.",48:02.0,+31:55:08.6,2.03,y,y,,3
+161017A,216.3,"Bright optical afterglow with early observations, millimeter follow-up.",31:04.6,+43:07:36.3,2.013,y,y,n,
+170705A,217.3,Extensive optical follow-up,46:49.0,+18:18:26.4,2.01,y,y,,
+130612A,4,Soft burst; possibly much longer T90. Optical/IR afterglow.,19:10.6,+16:43:11.9,2.006,y,y,,
+030115A,17.94,Extremely red afterglow and host galaxy.,18:32.6,+15:02:59.9,2,,y,y,5
+080906A,147,Very far south.,12:10.7,-80:31:03.2,2,y,y,,
+70224,34,Faint optical afterglow; early plateau?,56:06.7,-13:19:48.8,1.992,y,y,n,
+30226,22.09,Break in afterglow; rapid late decline. Intervening absorbers.,33:04.9,+25:53:55.3,1.986,y,y,,9
+140226A,15,Optical counterpart detected indepdently by PTF.,45:58.0,+14:59:35.4,1.98,y,y,,
+150915A,164.7,Late optical peak.,18:37.8,-34:54:48.3,1.968,y,y,,1
+170113A,20.66,Luminous host.,06:55.9,-71:56:34.9,1.968,y,y,,
+81008,185.5,"Bright afterglow. Very bright, luminous host.",39:50.0,-57:25:52.0,1.967,y,y,n,4
+20819,20,AKA 020819B. Dark GRB with optical afterglow at large offset from spiral host galaxy. Actually in background or afterglow was QSO.,27:19.5,+06:15:55.95,1.9621,,,,6
+160121A,12,Significant foreground extinction,16:21.2,-23:35:31.6,1.96,y,y,,
+070419B,236.5,,02:49.8,-31:15:49.3,1.9588,y,y,,
+50315,96,Prototypical four-regime X-ray decay.,25:54.1,-42:36:02.20,1.95,y,y,y,6
+080319C,34,"Bright GRB with erratic early evolution. Bright ""host"" is an absorber.",15:55.5,+55:23:30.6,1.9492,y,y,,
+60814,146,Bright GRB. Faint or red afterglow. Probable host in error circle at low redshift.,45:21.3,+20:35:10.7,1.9229,y,y,,1
+140623A,110,Fermi event with PTF afterglow (14cyb),01:53.4,+81:11:29.1,1.92,y,y,,
+60708,9.8,Southerly,31:13.8,-33:45:32.4,1.92,y,y,,
+20127,7.95,"Extremely luminous, red host galaxy (ERO). Optical AG limits are shallow.",15:01.4,+36:46:33.9,1.9,y,,y,2
+60908,19.3,"Bright early OT (R,V~15) but rapid fading.",07:18.4,+00:20:31.2,1.8836,y,y,n,1
+131011A,77,Afterglow found by PTF.,10:06.3,-04:24:40.9,1.874,y,y,,
+171020A,41.9,Early optical observations and polarimetry.,36:59.6,+15:12:16.0,1.87,y,y,,
+110801A,385,Very long. Far north. Early optical detections.,57:44.9,+80:57:21.2,1.858,y,y,,
+090902B,21,Extremely bright Fermi burst with LAT detection of separate high-energy spectral component.,39:45.4,+27:19:27.1,1.822,y,y,y,11
+090709A,89,Very bright burst with faint red afterglow (dark). Quasiperiodic light curve.,19:42.6,+60:43:39.3,1.8,y,y,n,3
+120326A,69.6,Long optical plateau/rebrightening; still bright at 1-2 days.,15:37.1,+69:15:35.4,1.798,y,y,y,3
+80325,128.4,"Image trigger. Faint IR afterglow coincident with (massive, dusty?) host.",31:34.2,+36:31:24.3,1.78?,y,y,,3
+121027A,62.6,Strong optical rebrightening at 1.5 days after burst.,14:23.4,-58:49:47.4,1.773,y,y,,3
+110422,25.9,Bright burst.,28:11.1,+75:06:25.00,1.77,,,,
+150314A,14.79,Bright GRB with LAT detection; early optical follow-up; multiwavelength follow-up.,26:41.0,+63:50:03.29,1.758,y,y,y,
+100425A,37,Typical burst. X-shooter spectrum.,56:47.2,-26:25:50.6,1.755,y,y,,
+90113,9.1,"No optical afterglow, possible dark burst.",08:13.7,+33:25:42.7,1.7493,y,y,,
+120119A,253.8,"Very long, bright Swift burst. Red afterglow. Numerous multicolor ground detections.",00:06.9,-09:04:53.7,1.728,y,y,n,1
+100906A,114.4,Bright multicolor afterglow; also detected by Fermi.,54:44.1,+55:37:49.6,1.727,y,y,,2
+160410A,8.2,Ambiguously-short GRB with early spectra.,02:44.4,+03:28:42.4,1.717,y,y,,
+50802,13,Observed in UV filters with X-ray-only break.,37:05.7,+27:47:12.20,1.7102,y,y,,3
+91020,34.6,"Bright, probably reddened afterglow.",42:55.2,+50:58:41.9,1.71,y,y,y,
+70521,37.9,Nearby low-z galaxy. Dark to extremely deep limits.,10:38.6,+30:15:22.1,1.7,y,,,
+80928,280,Very long burst. Afterglow brightened during first 2000s.,20:16.8,-55:11:58.95,1.6919,y,y,,1
+080603A,180,INTEGRAL burst. Slow-rising afterglow. Extremely strong MgII absorption.,37:38.1,+62:44:39.3,1.688,y,y,y,2
+131105A,112.3,Dust-reddened.,43:52.3,-62:59:43.7,1.686,y,y,,
+80605,20,Bright burst with optical afterglow; nearby contaminating stars.,28:30.1,+04:00:56.0,1.6403,y,y,,2
+990510,100,Very faint host galaxy discovered. Relatively flat spectrum. Jet break.,38:07.6,-80:29:48.8,1.619,y,y,y,18
+110503A,10,"Bright, well-observed GRB.",51:06.3,+52:12:27.1,1.613,y,y,y,1
+990123,63.3,Extremely bright GRB with extremely bright optical flash. Rapidly fading afterglow.,25:30.3,+44:45:59.1,1.61,y,y,y,52
+090418A,56,Bright afterglow; extensive ground observations.,57:15.2,+33:24:21.1,1.608,y,y,y,
+71003,150,Bright GRB; very bright afterglow (mag~12) with late rebrightening. Bright nearby star.,07:24.1,+10:56:51.8,1.6044,y,y,y,3
+140430A,173.6,Well-observed. Host emission line seen in afterglow.,51:44.6,+23:01:25.1,1.6,y,y,,1

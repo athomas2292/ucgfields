@@ -1,0 +1,89 @@
+﻿GRB,T90,comments,RA,Dec,z,X,O,R,refs
+090814A,80,Relatively faint afterglow.,58:26.4,+25:37:52.4,0.696?,y,y,,
+970228,3.6,First-ever detected GRB afterglow. Star-forming host.,01:46.6,+11:46:53.40,0.695,y,y,n,52
+20405,40,Source in star-forming region. Polarization; radio flare. Associated supernova.,58:03.1,-31:22:21.90,0.695,,y,y,11
+080916A,60,Relatively low redshift.,25:06.2,-57:01:22.8,0.6887,y,y,,
+111209A,1400,Ultra-long. Bright flaring optical X-ray afterglow.,57:22.8,-46:48:04.2,0.677,y,y,y,7
+050416A,2.4,XRF with star-forming host. No X-ray break until at least 40 days. Extremely bright late radio flare.,33:54.6,+21:03:26.27,0.6528,y,y,y,7
+161129A,,Bright GRB with many satellite detections.,04:54.5,+32:08:05.9,0.645,y,y,,
+131231A,31,Nearby Fermi/LAT burst with bright optical afterglow.,42:21.7,-01:39:10.61,0.642,y,y,,1
+100418A,7,Relatively low redshift. SDSS host. Long optical plateau followed by sharp break.,05:27.1,+11:27:42.3,0.6235,y,y,y,8
+110106B,24.8,Very faint i-band afterglow in early observations.,56:37.3,+47:00:10.49,0.618?,y,y,n,
+070612A,370,Close to Sun; no Swift slew. Bright SDSS host but not low-z.,05:29.6,+37:16:15.2,0.617,,y,y,
+050525A,10,Bright afterglow; probable late-time supernova signature.,32:32.6,+26:20:22.50,0.606,y,y,y,10
+131103A,17.3,Relatively nearby. Probable bright host.,15:40.6,-44:38:25.4,0.599,y,y,,
+130215A,65.7,"Bright, low-redshift. Early millimeter observations. Slow-fading late light curve.",54:00.7,+13:23:43.4,0.597,,y,,1
+141212A,0.3,Short burst. Early radio nondetection,36:30.3,+18:08:48.3,0.596,y,,n,
+150323A,149.6,Early optical observations. Host detected in emission.,32:42.8,+45:27:53.5,0.593,y,y,,
+50223,23,"Dark burst with red, dusty (probable) host.",05:32.5,-62:28:21.07,0.5915,y,,,4
+141004A,3.92,Swift/INTEGRAL burst. Moderately low-z. Possible faint associated SN.,06:56.2,49:10.8,0.573,y,y,,
+60123,900,Very long burst (900s); untriggered.,58:47.8,+45:30:50.2,0.56,y,,,
+140710A,3.52,Relatively bright host galaxy?,44:16.3,+35:29:57.1,0.558,y,y,,
+160425A,304.6,"Very long, 'unusual' burst. Bright merger (probable) host.",41:18.6,-54:21:36.1,0.555,y,y,,
+101219B,34,Low-redshift burst with bright host and SN?,48:55.3,-34:33:59.5,0.5519,y,y,y?,2
+051221A,1.4,Bright short burst with multi-wavelength afterglow.,54:48.6,+16:53:27.16,0.5465,y,y,y,7
+90424,52,Relatively low redshift; SDSS host galaxy.,38:05.1,+16:50:15.1,0.544,y,y,y,2
+60729,116,"Late-time brightening and slow, unbroken fading. Low redshift.",21:31.8,-62:22:12.8,0.5428,y,y,,10
+100621A,63.6,"Extremely dusty, bright, low-redshift burst. Large optical flare. Bright host.",01:13.1,-51:06:22.5,0.542,y,y,,3
+90618,113.2,Very bright Swift burst with bright afterglow.,35:58.9,+78:21:24.7,0.54,y,y,y,14
+081007A,10,Low-redshift Swift XRF. Probable bright host. Radio detection. Supernova (2008hw),39:50.4,-40:08:48.8,0.5295,y,y,y,2
+91127,7.1,"Bright, soft low-redshift burst. Luminous supernova.",26:19.9,-18:57:08.5,0.49,y,y,n,7
+160624A,0.2,Short with possible host galaxy.,00:46.2,+29:38:37.8,0.483,y,,,
+051117B,8,"Bright source outside of XRT circle, maybe not host.",40:43.4,-19:16:27.2,0.481,y,,,
+130831A,32.5,Bright nearby burst.,54:29.9,+29:25:46.8,0.4791,y,y,,5
+111211A,15,Agile GRB with afterglow.,12:21.7,+11:12:30,0.478,y,y,,
+150120A,1.2,Dark burst; no optical detection in deep early imaging.,41:16.5,+33:59:41.5,0.46,y,,,
+070724A,0.4,Short GRB with low-z host galaxy. Strongly reddened optical/IR afterglow.,51:14.1,-18:35:39.33,0.457,y,,,2
+170428A,0.2,Short burst. Optical afterglow and luminous host.,00:18.8,+26:54:57.0,0.454,y,y,,
+10921,21.77,No observed supernova; large host extinction. Possible jet break.,55:59.9,+40:55:53,0.45,,y,y,7
+61006,130,Short burst - triggered Swift via soft emission following the hard spike.,24:07.7,-79:11:55.1,0.4377,y,y,,
+990712,30,X-ray emission claimed; variable polarization claimed. Supernova bump. Bright host galaxy.,31:53.0,-73:24:28.3,0.43,,y,n,13
+61210,85,"Short burst, near Moon.",38:05.3,+15:37:17.3,0.4095,y,,n,
+120714B,159,Low probable redshift.,41:38.1,-46:11:02,0.3984,y,y,,
+71227,1.8,Short burst in disk of edge-on spiral galaxy,52:31.3,-55:59:03.5,0.394,y,y,,3
+140606B,23.6,Fermi GBM burst; PTF-discovered afterglow. Low redshift. Associated supernova.,52:30.0,+32:00:50.6,0.384,y,y,,1
+160623A,55,Bright Fermi/LAT GRB in Galactic plane.,01:11.5,+42:13:14.6,0.367,y,y,y,
+11121,,Wind environment; possible jet break. Associated supernova; bright host (possible spiral).,34:29.6,-76:01:41.5,0.362,y,y,y,16
+130603B,0.18,Short GRB with reported kilonova.,28:48.1,+17:04:18.0,0.356,y,y,y,10
+110328A,,"Erratic nonfading X-ray light curve. Coincident with nucleus of faint, low-redshift host: tidal-disruption event?",44:49.9,+57:34:59.6895,0.354,,,,10
+140903A,0.3,Low-z short burst in luminous galaxy very close on sky to bright star.,52:03.2,+27:36:10.7,0.351,y,y,y,2
+060428B,58,Possible XRF near red galaxy. Image trigger with faint OT.,41:25.6,+62:01:30.30,0.35?,y,y,,1
+130925A,,"Very peculiar low-redshift event with rapid flares for several hours, extremely bright late X-ray counterpart.",44:43.0,-26:09:11.16,0.347,y,y,,13
+61021,46,Detected in all UVOT filters. High S/N spectrum lacks absorption lines.,40:36.1,-21:57:04.4,0.3463,y,y,,
+090417B,260,Extremely long and dark burst at low redshift. Luminous host galaxy.,58:46.6,+47:01:05.0,0.345,y,,,3
+130427A,162.8,Brightest GRB in 29 years. Swift/GBM/LAT/MAXI detections; simultaneous optical prompt detections; extremely well-observed multiwavelength afterglow and SN.,32:32.8,+27:41:56.2,0.34,y,y,y,41
+171010A,104,Very bright Fermi/LAT burst with bright afterglow. Low redshift.,26:19.5,-10:27:46.2,0.33,y,y,y,
+150727A,88,Nearby (reddened?) GRB and host galaxy.,35:52.5,-18:19:31.3,0.313,y,y,,
+150424A,91,Short GRB with extended emission and optical afterglow. Large galaxy nearby which may not be host.,09:13.4,-26:37:51.50,0.3??,y,y,y,2
+111225A,106.8,Many early detections. Fast-fading late-time afterglow.,52:37.2,+51:34:19.5,0.297,y,y,,
+50826,35,"Bright, low-z host galaxy.",51:01.6,-02:38:35.80,0.296,y,y,,1
+060502B,90,Short burst; no OT. Uncertain association with nearby elliptical.,35:45.5,+52:37:52.9,0.287,y,,,1
+120422A,5.35,Low-redshift GRB with bright associated SN. Extensive worldwide follow-up.,07:38.4,+14:01:07.5,0.283,y,y,,4
+150818A,123.3,Nearby burst with well-characterized associated supernova.,21:25.4,+68:20:33.0,0.282,y,y,,
+50724,3,"Short burst inside early-type, low-z galaxy. Very late X-ray flare. First SHB radio afterglow.",24:44.4,-27:32:27.50,0.258,y,y,y,7
+150518A,,MAXI burst with afterglow and possible nearby host (+SN?).,36:48.3,+16:19:47.1,0.256,y,y?,,2
+20903,32.15,Extremely soft spectrum. First XRF afterglow. Low-z host; Possible supernova association.,48:42.3,-20:46:09.30,0.251,,y,y,7
+050509B,0.13,First short burst with afterglow; near elliptical galaxy.,36:14.1,+28:59:07.2,0.2249,y,,,12
+70809,1.3,Probable short burst.,35:04.6,-22:08:30.8,0.2187?,y,y,,
+081211B,102,Konus short burst with BATSS extended emission component; position consistent with low-z cluster.,13:03.5,+53:49:47.0,0.216,y,,,
+40701,60,XRF. No apparent supernova.,48:16.1,-40:11:08.83,0.2146,y,,,
+050219A,23,Dark? Bright early-type low-z host?,05:38.9,-40:41:02.6,0.2115,y,,,2
+030329A,22.76,Extremely bright GRB with SN association (2003dh). Brightest optical afterglow ever observed. Complicated afterglow evolution; rebrightenings.,44:50.0,+21:31:17.44,0.1687,y,y,y,101
+50709,220,Short-hard burst with optical afterglow associated with a nearby star-forming dwarf galaxy.,01:27.0,-38:58:39.50,0.16,y,y,,13
+160821B,0.48,Short (soft) burst coincident with low-redshift galaxy.,39:54.6,+62:23:30.5,0.16,y,y,y,1
+161219B,6.94,Nearby GRB with extensive observations and potential SN counterpart.,06:51.4,-26:47:29.52,0.1475,y,y,y,
+130702A,59,Fermi GBM/LAT burst. Very low redshift. Afterglow found by Palomar Transient Factory.,29:14.8,+15:46:26.4,0.145,y,y,y,7
+607,0.15,Short/hard burst; small IPN error box.,33:58.7,+17:08:51.49,0.1405,,,,1
+150101B,0.02,"Short, soft burst, possibly from nearby galaxy with AGN.",32:05.1,-10:56:03.0,0.134,y?,y,,2
+60614,102,"Bright burst with bright, long-lived afterglow. No bright supernova.",23:32.1,-53:01:36.2,0.1257,y,y,,20
+61201,0.8,Southerly short burst near cluster. Uncertain association with z=0.111 galaxy.,08:32.1,-74:34:47.08,0.111?,y,y,,2
+31203,30,Underluminous low-z GRB associated with hypernova SN2003lw. Galactic X-ray halo.,02:30.2,-39:51:03.52,0.105,y,y,y,41
+60505,4,Faint burst in underluminous low-z galaxy. No supernova.,07:03.4,-27:48:51.9,0.089,y,y,,6
+80517,64.6,"Very long. Compact, dusty probable host galaxy with AGN component.",48:58.0,+50:44:07.7,0.089,y,,,2
+051109B,15,Underluminous burst in outer arm of low-z spiral galaxy.,01:50.4,+38:40:46.7,0.08,y,,,1
+100316D,240,Extremely long/soft. Very low redshift; supernova counterpart (SN 2010bh).,10:30.3,-56:15:16.7,0.059,y,y,,13
+171205A,189.4,"Very nearby, very bright mm/radio afterglow and supernova. Massive host.",09:39.5,-12:35:18.34,0.0368,y,y,y,
+60218,2100,Low-redshift GRB with coincident Type Ic supernova (SN2006aj). Very underluminous burst with unusually blue afterglow.,21:39.7,+16:52:01.82,0.0331,y,y,y,53
+111005A,26,"Probably very low redshift, but minimal followup (except radio) due to Sun proximity.",53:07.8,-19:44:12.2,0.01326?,,,y,1
+980425,30,Apparent associated supernova (1998bw). Very low-z/underluminous.,35:03.3,-52:50:44.7,0.0085,y,SN,y,98
+80109,500,X-ray transient detected by XRT in NGC 2770. Evolved into SN2008D.,09:30.6,+33:08:20.3,0.006494,,,,24

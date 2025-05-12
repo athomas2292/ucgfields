@@ -1,0 +1,67 @@
+﻿GRB,T90,comments,RA,Dec,z,X,O,R,refs
+100518A,30,INTEGRAL burst with afterglow.,19:09.4,-24:33:15.9,4,y,y,,
+50730,155,High-redshift burst. Shallow decay; X-ray flaring.,08:17.1,-03:46:17.70,3.9693,y,y,y,7
+140419A,94.7,Bright afterglow. Early millimeter detection. High redshift.,27:57.6,+46:14:25.11,3.956,y,y,y,
+120909A,112,Very long.,22:56.7,-59:26:54.1,3.93,y,y,,
+60210,255,Early-time optical data with extensive flaring,50:57.4,+27:01:34.4,3.9122,y,y,n,3
+90519,64,Moderately high-z; slow early decay.,29:07.0,+00:10:49.1,3.85,y,y,,
+81029,270,Afterglow with late rebrightening.,07:05.4,-68:09:19.74,3.8479,y,y,,6
+81228,3,Limited follow-up.,37:50.9,+30:51:10.5,3.8,y,y,,
+120802A,50,Moderately high-z. Faint afterglow with no submm/radio detection.,59:22.4,+13:46:07.2,3.796,y,y?,n,
+050502A,20,INTEGRAL burst; bright optical afterglow.,29:46.3,+42:40:27.30,3.793,,y,,4
+60605,15,Bright optical afterglow with early rising phase.,28:37.3,-06:03:31.30,3.773,y,y,n,2
+130408A,28,Luminous moderately high-z GRB with bright afterglow.,57:37.3,-32:21:38.90,3.758,y,y,,
+60906,43.6,Slow afterglow decay.,43:00.9,+39:21:42.12,3.6856,y,y,,1
+170202A,46.2,Bright afterglow with extensive early follow-up.,10:03.5,+05:00:41.0,3.645,y,y,,
+070721B,340,Long burst with UVOT afterglow. Second high-z galaxy at same redshift.,12:32.9,-02:11:40.6,3.6298,y,y,n,
+130514A,204,Behind a Galactic star cluster. Multi-filter detections.,45:07.9,-07:58:34.4,3.6,y,y,,
+90323,150,First LAT detection with spectroscopic redshift.,42:50.3,+17:03:11.6,3.57,y,y,y,5
+60115,142,,36:08.3,+17:20:43.1,3.5328,y,y,,1
+160203A,20.2,Bright afterglow,47:48.3,-24:47:19.8,3.52,y,y,,
+170405A,164.7,Bright afterglow.,39:18.7,-25:14:36.2,3.51,y,y,,
+51028,12,Faint optical afterglow.,48:15.0,+47:45:09.20,3.5,y,y,,3
+151111A,76.93,,47:22.8,-44:09:43.23,3.5,y,y,,
+980329,15,Very intense burst. Faint host galaxy with significant extinction.,02:38.0,+38:50:44.02,3.5,y,y,y,10
+061110B,128,Faint optical afterglow.,35:40.4,+06:52:34.1,3.4344,y,y,,
+971214,50,First high-z burst; very energetic. Multiwavelength afterglow.,56:26.3,+65:12:42,3.43,y,y,n,16
+60707,68,Faint afterglow.,48:19.0,-17:54:17.0,3.424,y,y,n,
+121201A,85,,53:52.2,-42:56:34.4,3.385,y,y,,
+90313,78,"Very bright, sustained afterglow. Extremely luminous at late times.",13:36.2,+08:05:49.8,3.375,y,y,y,3
+30323,25.05,"Faint, long burst. Faint, high-z host. First GRB DLA(?)",06:09.4,-21:46:13.2,3.372,,y,,3
+80810,106,Extremely energetic. Very bright early afterglow (12th mag). Radio detection.,47:10.5,+00:19:10,3.3604,y,y,y,3
+110818A,103,"X-shooter spectrum, no other follow-up.",09:21.0,-63:58:52.3,3.36,y,y,,
+061222B,40,Rapid Magellan spectrum.,01:24.6,-25:51:36,3.355,y,y,n,
+141026A,146,"Faint and long burst with slow-rising, faint afterglow.",56:20.3,+26:55:42.4,3.35??,y,y,y,
+50908,20,,21:50.7,-12:57:17.20,3.3467,y,y,,3
+160629A,66.6,INTEGRAL burst with afterglow,19:27.1,+76:58:00.7,3.332,y,y,,
+140808A,4.7,Fermi burst with PTF high-z afterglow,44:53.3,+49:12:51.1,3.29,y?,y,,
+140423A,134,"Bright optical afterglow, extensively observed.",09:08.5,+49:50:29.4,3.26,y,y,,
+50319,15,"Very bright, well-observed. Swift triggered on second emission peak.",16:47.8,+43:32:54.90,3.2425,y,y,n,9
+60526,13.8,Two well-separated (200s) episodes of emission. Highly variable afterglow. Very faint host.,31:18.4,+00:17:04.92,3.2213,y,y,,4
+60926,8,Contemporaneous optical and X-ray flare. Strongest GRB DLA known.,35:43.7,+13:02:18.6,3.2086,y,y,,1
+80516,5.8,Faint afterglow. Nearby star.,02:34.0,-26:09:33.6,3.2,y,y,,
+20124,45.91,Extremely faint host galaxy (mag>29.5). Dark burst; not obscured.,32:50.8,-11:31:10.6,3.198,,y,,2
+100316A,7,,47:54.7,+71:49:36.3,3.155,y,y,,2
+111123A,290,"Very long. Faint afterglow (possibly dark?), bright high-z host galaxy.",19:23.1,-20:38:41.0,3.1516,y,y,,
+140703A,67.1,Moderately high-z and probably significantly reddened. Radio/millimeter follow-up.,51:59.0,+45:06:06,3.14,y,y,y,
+150413A,263.6,"Early observations of OT, rapidly brightened in first 15 minutes. No early Swift XRT/UVOT.",41:42.0,+71:50:28.0,3.139,n,y,y,1
+120922A,173,Soft burst or XRF.,38:59.6,-20:10:54.2,3.1,y,y,,
+091109A,48,"Faint, fast-fading afterglow.",37:01.8,-44:09:29.6,3.076,y,y,,
+060607A,100,Rapid early spectroscopy; flaring afterglow.,58:50.4,-22:29:46.7,3.0749,y,y,,9
+081028A,260,New burst with bright afterglow.,07:34.7,+02:18:29.1,3.038,y,y,,2
+80607,79,Bright high-z burst. Very strong DLA and numerous absorption lines; probable large extinction column.,59:47.2,+15:55:10.9,3.0368,y,y,,6
+90404,84,Very dark burst with millimeter detection,56:57.5,+35:30:57.5,3?,y,,,
+121217A,778,Very long.,14:50.4,-62:21:03.53,3,y,y,,2
+090715B,266,Very slow early optical fading.,45:21.5,+44:50:20.3,3,y,y,y,
+141109A,200,Bright early afterglow. Very long.,38:07.4,-00:36:28.7,2.993,y,y,y,
+70411,101,Optical afterglow shows early plateau phase and flares.,09:19.9,+01:03:52.6,2.954,y,y,,1
+120118B,23.26,"Unconfirmed NIR detection (dark??), bright high-z host.",19:29.0,-07:11:05.3,2.943,y,y?,,
+51008,16,"Long, hard, high-fluence dark burst; bright star in field. LBG host.",31:29.5,+42:05:53.3,2.9,y,,,4
+50401,38,"Faint optical afterglow, probably dust-extinguished. Very strong DLA system.",31:28.8,+02:11:14.83,2.8983,y,y,y,6
+111107A,26.6,Submm and radio limits.,37:54.7,-66:31:12.3,2.893,y,y,,
+120404A,38.7,Early observations; multiwavelength followup. Rapid late-time fading.,40:02.3,+12:53:06.1,2.876,y,y,y,
+110731A,38.8,Swift burst with LAT detection.,42:01.0,-28:32:13.8,2.83,y,y,,7
+161014A,18.3,Swift GRB with afterglow.,10:35.5,+07:28:07.3,2.823,y,y,n,
+50603,6,"Bright afterglow, UVOT observations.",39:56.9,-25:10:54.6,2.821,y,y,y,2
+120327A,62.9,Very bright at early times. Rich X-shooter spectrum w/molecular features.,27:27.5,-29:24:54.00,2.813,y,y,,4
+121011A,75.6,"Swift burst with weak LAT detection. Moderately bright, long-lived optical afterglow.",20:51.2,+41:06:37.4,2?,y,y,,1
